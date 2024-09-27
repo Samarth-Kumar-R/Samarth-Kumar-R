@@ -14,7 +14,7 @@
 <!--Languages and Tools Section-->       
 # 💻 Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs
 <p align="center">
-<img width="700px"  src="https://skillicons.dev/icons?i=ts,py,angular,js,html,css,react,nodejs,express,django,md,postgres,mongo,git,vscode,docker,postman,linux,css,bootstrap,tailwind,mysql,postgres,postman,discord,figma,git,github,kali,ps,pr,ubuntu&perline=16"  />
+<img width="700px"  src="https://skillicons.dev/icons?i=ts,py,angular,js,html,css,bootstrap,react,nodejs,express,django,postgres,mongo,git,github,vscode,docker,postman,linux,tailwind,mysql,postman,discord,figma,kali,ps,pr,ubuntu&perline=16"  />
 </p>
 <br />
 
